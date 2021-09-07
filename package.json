@@ -1,0 +1,13 @@
+{
+  "name": "ci",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
