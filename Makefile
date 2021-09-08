@@ -1,5 +1,6 @@
 test:
-	npm test -s
+	npm test
 # BEGIN
-
+test-coverage:
+	npm test -- --coverage
 # END
