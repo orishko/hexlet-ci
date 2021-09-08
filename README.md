@@ -1,6 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/813b79cd69242d3ac340/maintainability)](https://codeclimate.com/github/orishko/hexlet-ci/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/813b79cd69242d3ac340/test_coverage)](https://codeclimate.com/github/orishko/hexlet-ci/test_coverage)
-![Actions Status](https://github.com/orishko/hexlet-ci/workflows/main/badge.svg) 
+![Actions Status](https://github.com/orishko/hexlet-ci/workflows/CI/badge.svg) 
 # CI
 
 В этом упражнении нужно будет протестировать функцию `slice()` и настроить Github Actions с подсчетом Test Coverage и загрузкой отчёта по покрытию тестами на [codeclimate.com](https://codeclimate.com/).
