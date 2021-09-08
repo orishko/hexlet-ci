@@ -4,8 +4,13 @@
   "description": "",
   "main": "src/index.js",
   "type": "module",
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {},
+    "testRunner": "jest-circus/runner"
+  },
   "scripts": {
-    "test": "jest --colors"
+    "test": "npx jest --bail"
   },
   "devDependencies": {
     "jest": "^27.0.4"
